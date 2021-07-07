@@ -13,8 +13,6 @@ By studying multiple solutions to the same challenge written by more experienced
 ### Index
 
 - [Exercise Platforms](#exercise-platforms)
-  - [Edabit](#edabit)
-  - [Codewars](#codewars)
 - [Exploring](#exploring)
   - [Easy is Ok](#easy-is-ok)
   - [Forfeit!](#forfeit)
@@ -31,19 +29,37 @@ By studying multiple solutions to the same challenge written by more experienced
 
 ## Exercise Platforms
 
-Normally people log into these platforms to solve challenges and progress through the ranks. You'll be going there to forfeit challenges and study other people's solutions. Below are two platforms you can try out, you can stick with your favorite or use both. If you know of another platform, go for it! All that matters is that you can study many solutions to the same problem
+Normally people log into these platforms to solve challenges and progress through the ranks. You'll be going there to forfeit challenges and study other people's solutions. Below are some platforms you can try out, you can stick with your favorite or use them all. If you know of another platform, go for it! All that matters is that you can study many solutions to the same problem
 
 ### Edabit
 
+> free trial period
+
 [Edabit](https://edabit.com) is an exercise platform that lets you choose from a wide selection of coding challenges to study. The website has some helpful tutorials to get you started and each exercise has some suggested resources to study. You can choose freely between easy and difficult challenges.
 
-Compared with Codewars the challenges on Edabit will be a little easier, and the solutions are generally more clear to read and understand. They may not always be the most "clever" solution, but you can pick up some good habits for writing clear and readable code.
+Compared with Codewars or Exercism the challenges on Edabit will be a little easier, and the solutions are generally more clear to read and understand. They may not always be the most "clever" solution, but you can pick up some good habits for writing clear and readable code.
+
+### LeetCode
+
+[LeetCode](https://leetcode.com/) is full of great challenges, supporting explanations/videos, solutions, and discussions. LeetCode also has many other learning resources to help you take the first steps in Computer Science and algorithms.
 
 ### Codewars
 
 [Codewars](https://www.codewars.com/) is a website with progressive programming challenges starting at **8 kyu** (easiest) all the way upt to **1 kyu** (the hardest). You can learn more about Codewars by reading [the Codewars Wiki](https://github.com/codewars/codewars.com/wiki/).
 
 Compared with Edabit, the challenges on Codewars can be more challenging. Users on Codewars also submit more complex, "impressive" or imaginative solutions. They may not be best practice, but they can sure be fun to puzzle out.
+
+### CoderByte
+
+> limited access with free account
+
+[CoderByte](https://coderbyte.com/) is somewhere between Codewars and Edabit. There are different levels of challenges and many solutions to study. Some of the challenges come with a video explaining the problem and walking through a solution.
+
+### Exercism
+
+On [Exercism](https://exercism.io/tracks/javascript/exercises) you will be able to study other people's solutions, but they don't have an online coding environment. To submit your own solutions you will need to install their CLI and work locally.
+
+The solutions on Exercism are generally well-written using modern ES6 JavaScript, but often have less variety than the other platforms. Some of the exercises are functions, study these. Some of them are classes (Object Oriented Programming), you can skip these.
 
 [TOP](#solution-write-ups)
 
